@@ -24,6 +24,18 @@
 			]
 		},
 		{
+			"name": "Kagi Assistant",
+			"details": "https://github.com/eat-your-glory/sublime-kagi-assistant",
+			"labels": ["ai", "browser", "kagi"],
+			"author": "eatyourglory",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Kahlan PHP Snippets",
 			"details": "https://github.com/geryguilbon/sublime_kahlan_snippets",
 			"labels": ["kahlan", "snippets", "tests", "tdd", "framework", "php"],
